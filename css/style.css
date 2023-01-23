@@ -1,3 +1,30 @@
-h1 {
-    color: red;
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'EB Garamond', serif;
+}
+
+/* common style */
+.primary-color {
+    color: #B68C5A;
+}
+
+.primary-btn {
+    font-weight: 600;
+    font-size: 18px;
+    padding: 20px 30px;
+    color: #FFFFFF;
+    background-color: #B68C5A;
+    border: none;
+    border-radius: 8px;
 }
