@@ -41,6 +41,11 @@ h6 {
     height: 550px;
 }
 
+.criminal-low-style {
+    background-image: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    ;
+}
+
 @media only screen and (max-width:576px) {
     .primary-btn {
         font-weight: 500;
@@ -48,4 +53,5 @@ h6 {
         padding: 10px 20px;
         border-radius: 8px;
     }
+
 }
