@@ -19,10 +19,11 @@ h6 {
     color: #B68C5A;
 }
 
-.p {
+.small {
     font-size: 1rem;
     color: #707070;
 }
+
 
 .primary-btn {
     font-weight: 600;
@@ -78,4 +79,7 @@ h6 {
         font-weight: 100;
         font-size: 10px;
     }
+
+    /* footer style */
+
 }
