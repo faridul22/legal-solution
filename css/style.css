@@ -41,10 +41,13 @@ h6 {
     height: 550px;
 }
 
+/* legal practice section style */
 .criminal-low-style {
     background-image: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
     ;
 }
+
+
 
 @media only screen and (max-width:576px) {
     .primary-btn {
@@ -54,4 +57,25 @@ h6 {
         border-radius: 8px;
     }
 
+    /* client section style */
+    .author-img {
+        height: 2rem;
+        width: 2rem;
+    }
+
+    .slider-author,
+    .slider-title,
+    .slider-description {
+        margin: 0;
+    }
+
+    .slider-title {
+        font-weight: 400;
+        font-size: 15px;
+    }
+
+    .slider-description {
+        font-weight: 100;
+        font-size: 10px;
+    }
 }
